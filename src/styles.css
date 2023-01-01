@@ -1,0 +1,30 @@
+* {
+  background-color: rgb(85, 216, 188);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  outline: none;
+  border: 1px solid black;
+  border-radius: 7px;
+  padding: 0.8rem 1.5rem;
+  margin: 1rem;
+  background-color: lime;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+select {
+  padding: 1rem;
+  margin-right: 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
